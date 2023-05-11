@@ -2,8 +2,8 @@
 
 int main()
 {
-    int numbers, result;
-
-    printf("How many numbers do you want to add? \n");
-    scanf("%d", &numbers);
+    int num, cont = 1, count = 0;
+    while (cont == 1)
+    {
+    }
 }
